@@ -1,0 +1,8 @@
+proxy.host: proxy.host.co.jp
+proxy.port: 80
+proxy.user: proxy.user
+proxy.pass: proxy.password
+
+# It can use ruby expression
+#result.file.path: <%= "C:\\#{Time.now.year}"%>f
+result.file.path: shop-list.csv
